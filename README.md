@@ -1,4 +1,4 @@
-### Hey, ![Vis.](https://gpvc.arturio.dev/shikharkrdixit)th visiter, My name is Shikhar 👋
+### Hey, ![Visitor](https://profile-counter.glitch.me/shikharkrdixit/count.svg), My name is Shikhar 👋
 
 ***
 
@@ -6,7 +6,7 @@ I am an pursuing Engineering student, I love to play outdoor games like Basketba
 
 ![Profile views](https://gpvc.arturio.dev/shikharkrdixit) 
 
-![Visitor Count](https://profile-counter.glitch.me/shikharkrdixit/count.svg)
+
 
 
 - 🔭 I’m currently working on some basic projects.
