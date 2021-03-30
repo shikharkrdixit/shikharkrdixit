@@ -25,7 +25,7 @@ Look at my **Word Prediction** Web - Application built using R and Shiny. [Here]
 
 
 
-A tool for **Creating Graphs** built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
+A Web - Application tool for **Creating Graphs** built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
 
 
 
