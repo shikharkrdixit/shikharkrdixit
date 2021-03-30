@@ -4,6 +4,9 @@ I am an pursuing Engineering student, I love to play outdoor games like Basketba
 
 ![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikharkrdixit&count_private=true)
 
+![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikharkrdixit&show_icons=true)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
