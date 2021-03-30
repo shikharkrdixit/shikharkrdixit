@@ -1,10 +1,10 @@
-### Hey, ![Visitor](https://profile-counter.glitch.me/shikharkrdixit/count.svg), My name is Shikhar 👋
+### Hey, ![Visitor](https://profile-counter.glitch.me/shikharkrdixit/count.svg)th visitor, My name is Shikhar 👋
 
 ***
 
 I am an pursuing Engineering student, I love to play outdoor games like Basketball, Soccer, and I am also good at athletics, and also I am a very big fan of the DC Comics and Movies. Other than that you can also find me learning new skills, solving some real world and some competitive programming problems. My love for programming launch in my 12th standard when I was introduced to C++ (ofc adding two numbers) and I have never stopped discovering new facts about programming since. Right now I am focusing on learning some basics of Data Science and ML but I also have some reasonable knowledge about Data Structures and OOPs.
 
-![Profile views](https://gpvc.arturio.dev/shikharkrdixit) 
+![Visitor](https://profile-counter.glitch.me/shikharkrdixit/count.svg)
 
 
 
