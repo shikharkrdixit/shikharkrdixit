@@ -1,4 +1,4 @@
-### Hey, ![](https://gpvc.arturio.dev/shikharkrdixit)th visiter, My name is Shikhar 👋
+### Hey, ![Vis.](https://gpvc.arturio.dev/shikharkrdixit)th visiter, My name is Shikhar 👋
 
 ***
 
