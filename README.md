@@ -6,3 +6,9 @@ I am an pursuing Engineering student, I love to play outdoor games like Basketba
 
 - ⚡ Fun fact about me: You can ask me any Batman related facts and I would know the answer 101 out of 100 times.
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikharkrdixit)  
+
+![Profile views](https://gpvc.arturio.dev/shikharkrdixit)  
+
