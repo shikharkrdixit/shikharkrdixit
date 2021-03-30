@@ -1,4 +1,5 @@
-### Hey, visitor ![Visitor](https://profile-counter.glitch.me/shikharkrdixit/count.svg), My name is Shikhar 👋
+**Hey, visitor** ![Visitor Count](https://profile-counter.glitch.me/shikharkrdixit/count.svg) **, My name is Shikhar** 👋
+
 
 ***
 
