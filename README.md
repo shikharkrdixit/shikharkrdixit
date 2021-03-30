@@ -11,8 +11,10 @@ I am an pursuing Engineering student, I love to play outdoor games like Basketba
 
 Look at my **Word Prediction** Web - Application built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
 
-A tool for Creating Graphs built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
+A tool for **Creating Graphs** built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
 
 
 ![Profile views](https://gpvc.arturio.dev/shikharkrdixit)  
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
