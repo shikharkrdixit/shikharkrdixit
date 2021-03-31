@@ -12,7 +12,7 @@ I am an Engineering student in the Information Technology department, I love to 
 
 - 🔭 I’m currently working on some basic projects.
 
-- 🌱 I’m currently learning DS and ML using Python and also many other stuff.
+- 🌱 I’m currently learning DS - ML using Python and also many other stuff.
 
 - ⚡ Fun fact about me: You can ask me any Batman related facts and I would know the answer 101 out of 100 times.
 
