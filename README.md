@@ -21,11 +21,11 @@ I am an Engineering student in the Information Technology department, I love to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
 
 
-Look at my **Word Prediction** Web - Application built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
+Look at my **Word Prediction** Web - Application built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
 
 
 
-A Web - Application tool for **Creating Graphs** built using R and Shiny. [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
+A Web - Application tool for **Creating Graphs** built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
 
 
 
