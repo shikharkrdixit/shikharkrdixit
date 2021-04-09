@@ -28,6 +28,9 @@ A Web - Application tool for **Creating Graphs** built using R and Shiny - [Here
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikharkrdixit&show_icons=true)  
+
+
 
 
 
