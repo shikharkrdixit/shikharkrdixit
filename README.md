@@ -18,7 +18,9 @@ I am an Engineering student in the Information Technology department, I love to 
 
 
 
-![alt text](https://thecelestialproposal.files.wordpress.com/2015/11/matrix-moving-wallpaper-download.jpg?w=768)
+![alt text](https://media.wired.com/photos/5ca648a330f00e47fd82ae77/master/w_2560%2Cc_limit/Culture_Matrix_Code_corridor.jpg)
+
+In this **Data Driven** world, I want to be one of those who make everyone's life easier. Every other person exloring with data is one of those Superheroes who have the power to change the world's architecture, and I too am preparing to be part of that community.
 
 
 Look at my **Word Prediction** Web - Application built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
