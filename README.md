@@ -30,6 +30,10 @@ Look at a **Exploratory Data Analysis** performed by me - [Here](https://rpubs.c
 
 
 
+
+
+
+
 ![alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa6a4ea-c1a3-43f4-a570-7390bfb6c564/dbrebc2-f6299bc0-5695-4fde-a920-b867f5addc5f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYWFhNmE0ZWEtYzFhMy00M2Y0LWE1NzAtNzM5MGJmYjZjNTY0XC9kYnJlYmMyLWY2Mjk5YmMwLTU2OTUtNGZkZS1hOTIwLWI4NjdmNWFkZGM1Zi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.dYrq7JXMGVnXB0VL_7CL9d4H2aiXftO553cbFAtI34U)
 
 In this **Data Driven** world where data is flowing every second from every Species, I want to be one of those who make everyone's life easier. Every other person exloring data is one of those Superheroes who have the power to change the world's architecture, and I too am preparing to be part of that community.
