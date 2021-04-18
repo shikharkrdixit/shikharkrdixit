@@ -17,7 +17,7 @@ I am an Engineering student in the Information Technology department, I love to 
 - ⚡ Fun fact about me: You can ask me any Batman related facts and I would know the answer 101 out of 100 times.
 
 
-**Projects :**
+**Some Work Samples :**
 
 
 
