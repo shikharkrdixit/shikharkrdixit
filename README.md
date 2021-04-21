@@ -5,6 +5,8 @@
 
 I am an Engineering student in the Information Technology department, I love to play outdoor games like Basketball, Soccer, and I am a good athlete too I was awarded as the allrounder championship in Sports in my School, also I am a very big fan of the DC Comics and Movies. Other than these you can also find me learning new skills, solving real world and some competitive programming problems. My love for programming launched in my 12th standard when I was introduced to C++ (ofc adding two numbers) and I have never stopped discovering new facts about programming since. Right now I am focusing on learning Data Science and ML, and I also have good understanding about Data Structures and OOPs Concepts.
 
+![alt text](https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966)
+
 
 
 
