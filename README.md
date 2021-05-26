@@ -58,7 +58,6 @@ In this **Data Driven** world where data is flowing every second from every Spec
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shikharkrdixit)
 
 
 
