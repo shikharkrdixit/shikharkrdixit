@@ -74,7 +74,6 @@ In this **Data Driven** world where data is flowing every second from every Spec
 _______
 
 
-**tldr; A Monkey with his hand stuck in a Jar.**
 
 
 
