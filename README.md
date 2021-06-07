@@ -9,7 +9,7 @@ I am an Engineering student in the Information Technology department, I love to 
 
 
 
-[<img src='https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966' alt='github' height='100'>](https://github.com/shikharkrdixit)
+[<img src='https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966' alt='github' height='100'>](https://github.com/shikharkrdixit) 
 
 
 
@@ -21,6 +21,9 @@ I am an Engineering student in the Information Technology department, I love to 
 - 🌱 I’m currently learning DS - ML using Python and also some other stuff.
 
 - ⚡ Fun fact about me: You can ask me any Batman related facts and I would know the answer 101 out of 100 times.
+
+
+![NotMeOrMayBeWhoKnows](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
 
 
 **Some Work Samples :**
@@ -48,7 +51,9 @@ More incoming soon...
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats) ![NotMeOrMayBeWhoKnows](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
+
+
 
 
 
