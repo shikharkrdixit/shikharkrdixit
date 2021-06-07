@@ -48,14 +48,8 @@ More incoming soon...
 
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
 
-
-
-
-
-**Finally Achieving my Mom's Dream...** ❤️
 
 
 ![NotMeOrMayBeWhoKnows](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
