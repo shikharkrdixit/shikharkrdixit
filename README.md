@@ -48,11 +48,7 @@ More incoming soon...
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
-
-
-
-![NotMeOrMayBeWhoKnows](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats) ![NotMeOrMayBeWhoKnows](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
 
 
 
