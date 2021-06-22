@@ -44,6 +44,8 @@ Look at a **Exploratory Data Analysis** performed by me - [Here](https://rpubs.c
 
 An **Interactive Dashboard** plot built by me - [Here](https://rpubs.com/shikharkrdixit/interactivedashboardKPMG)
 
+A **Whatsapp Text Analysis** associated to NLP here - [Here](https://rpubs.com/shikharkrdixit/whatsapptextanalysis)
+
 
 More incoming soon...
 
