@@ -24,14 +24,14 @@ I am an Engineering student in the Information Technology department, I love to 
 - ⚡ Fun fact about me: You can ask me any Batman related facts and I would know the answer 101 out of 100 times.
 
 
-![NotMeOrMayBeWhoKnows](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
+![hmmLookslikeyourConnectionHasIssues](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
 
 
 **Some Work Samples :**
 
 
 
-Look at my **Word Prediction** Web - Application built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
+Have a look at my **Word Prediction** Web - Application built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
 
 
 
@@ -39,11 +39,12 @@ A Web - Application tool for **Creating Graphs** built using R and Shiny - [Here
 
 
 
-Look at a **Exploratory Data Analysis** performed by me - [Here](https://rpubs.com/shikharkrdixit/753448)
+Look at an **Exploratory Data Analysis** executed by me - [Here](https://rpubs.com/shikharkrdixit/753448)
 
 
 
 An **Interactive Dashboard** plot built by me - [Here](https://rpubs.com/shikharkrdixit/interactivedashboardKPMG)
+
 
 A **Whatsapp Text Analysis** associated to NLP here - [Here](https://rpubs.com/shikharkrdixit/whatsapptextanalysis)
 
