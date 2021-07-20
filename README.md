@@ -59,7 +59,6 @@ More incoming soon...
 
 
 
-![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikharkrdixit&show_icons=true&theme=radical)
 
 
 ***
