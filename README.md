@@ -3,7 +3,7 @@
 
 ***
 
-I am an Engineering student in the Information Technology department, I love to play outdoor games like Basketball, Soccer, and I am a good athlete too I was awarded as the allrounder championship in Sports in my School, also I am a very big fan of the DC Comics and Movies. Other than these you can also find me learning new skills, solving real world and some competitive programming problems. My love for programming launched in my 12th standard when I was introduced to C++ (ofc adding two numbers) and I have never stopped discovering new stuff about programming since. Right now I am focusing on learning Data Science and ML, and I also have good understanding about Data Structures and OOPs Concepts.
+I am an Engineering student in the Information Technology department, I love to play outdoor games like Basketball, Soccer, and I am a good athlete too, I was awarded as the allrounder championship in Sports, also I am a very big fan of the DC Comics. Other than these you can find me learning new skills, solving real world and some Programming Problems. My love for programming launched in my 12th standard when I was introduced to C++ (ofc with adding two numbers) and I have never stopped discovering new stuff about programming since.
 
 
 
@@ -51,7 +51,7 @@ A **Whatsapp Text Analysis** associated to NLP here - [Here](https://rpubs.com/s
 
 More incoming soon...
 
-
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>C</title><path d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg>
 
 
 
