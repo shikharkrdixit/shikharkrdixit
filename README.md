@@ -19,33 +19,12 @@ I am an Engineering student in the Information Technology department, I love to 
 
 - 🔭 I’m currently working on some Projects.
 
-- 🌱 I’m currently learning DS - ML using Python and also some other stuff.
+- 🌱 I’m currently learning Spring Boot
 
 
 
 ![NotLoaded!!!Err!!](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
 
-
-**Some Work Samples :**
-
-
-
-Have a look at my **Word Prediction** Web - Application built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/ngram_match/)
-
-
-
-A Web - Application tool for **Creating Graphs** built using R and Shiny - [Here](https://shikharkrdixit.shinyapps.io/CreatingGraphs/?_ga=2.29091516.1841408205.1617125902-1560055809.1613538410)
-
-
-
-Look at an **Exploratory Data Analysis** executed by me - [Here](https://rpubs.com/shikharkrdixit/753448)
-
-
-
-An **Interactive Dashboard** plot built by me - [Here](https://rpubs.com/shikharkrdixit/interactivedashboardKPMG)
-
-
-A **Whatsapp Text Analysis** associated to NLP here - [Here](https://rpubs.com/shikharkrdixit/whatsapptextanalysis)
 
 
 More incoming soon...
