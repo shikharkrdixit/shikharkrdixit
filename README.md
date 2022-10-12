@@ -13,16 +13,6 @@ I am an Engineering student in the Information Technology department, I love to 
 
 
 
-
-
-
-
-- 🔭 I’m currently working on some Projects.
-
-- 🌱 I’m currently learning Spring Boot
-
-
-
 ![NotLoaded!!!Err!!](https://drive.google.com/uc?export=view&id=1gTQ2fwnPdVGdK7n4FqsRCSCI6V9LE8Qy)
 
 
