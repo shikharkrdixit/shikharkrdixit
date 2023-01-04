@@ -17,13 +17,6 @@ I am an Engineering student in the Information Technology department, I love to 
 
 
 
-More incoming soon...
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharkrdixit&hide=javascript,html)](https://github.com/shikharkrdixit/github-readme-stats)
-
-
 
 
 
